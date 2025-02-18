@@ -1,2 +1,4 @@
 # jenkins-junit-maven-example
-This is the maven basic project with Junit test cases for Jenkins integration.
+Esta es una pequeña demostración de pruebas con junit, basada en un proyecto de @deepak-kumbhar.
+Como parte del curso de introducción a CI/CD con Jenkins.
+Febrero, 2025.
